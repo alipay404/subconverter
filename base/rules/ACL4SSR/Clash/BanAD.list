@@ -1,5 +1,13 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
+#软件拦截
+DOMAIN-SUFFIX,emtec.com
+IP-CIDR,159.203.99.117/32
+DOMAIN-SUFFIX,scootersoftware.com
+DOMAIN-SUFFIX,coderunnerapp.com
+DOMAIN-SUFFIX,license.sublimehq.com
+DOMAIN-SUFFIX,sublimetext.com
+
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
